@@ -33,5 +33,29 @@ Vida útil de la mezcla: **~30 minutos** a 20 °C.
 | Temperatura de aplicación | +8 °C mín. / +35 °C máx. |
 | Puesta en servicio | ~2 días |
 
+**1. La malla NO se coloca después de dejar secar la primera capa.**
+
+Se coloca **mientras la primera capa todavía está fresca/húmeda** (antes de que fragüe). El procedimiento correcto es:
+
+1. Aplicar la primera capa (~1 mm) con llana.
+2. **Inmediatamente**, mientras el material aún está fresco, colocar la malla sobre ella.
+3. Presionar con llana para eliminar arrugas y bolsas de aire.
+4. Aplicar **material adicional de la misma capa** para **cubrir totalmente la malla** (quede empotrada dentro del mortero).
+5. **Ahora sí** se deja endurecer (2–3 h mínimo, máx. 24 h).
+
+**2. La segunda capa NO lleva malla.**
+
+La segunda capa es simplemente una **capa de acabado** que se aplica en dirección **perpendicular** a la primera, con llana lisa, tan pronto como la primera haya endurecido. No se repite la operación con otra malla.
+
+**Resumen:**
+
+| Paso | Acción |
+|---|---|
+| 1 | Capa 1 (1 mm) + malla empotrada + cubrirla con material |
+| 2 | Esperar fraguado (2–3 h) |
+| 3 | Capa 2 (1 mm) en sentido perpendicular, **sin malla** |
+
+La malla es **una sola**, integrada en la primera capa.
+
 
 
