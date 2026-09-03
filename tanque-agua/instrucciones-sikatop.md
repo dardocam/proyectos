@@ -33,5 +33,5 @@ Vida útil de la mezcla: **~30 minutos** a 20 °C.
 | Temperatura de aplicación | +8 °C mín. / +35 °C máx. |
 | Puesta en servicio | ~2 días |
 
-La malla se usa específicamente en **zonas críticas**: uniones muro-losa, grietas estáticas, parches de reparación y transiciones, para absorber movimientos y actuar como puente sobre posibles fisuras.
+
 
