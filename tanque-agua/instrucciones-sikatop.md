@@ -55,7 +55,7 @@ La segunda capa es simplemente una **capa de acabado** que se aplica en direcciÃ
 | 2 | Esperar fraguado (2â€“3 h) |
 | 3 | Capa 2 (1 mm) en sentido perpendicular, **sin malla** |
 
-La malla es **una sola**, integrada en la primera capa.
+
 
 
 
