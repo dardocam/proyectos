@@ -236,9 +236,9 @@ DÍA 09 ── 💧 Carga
 
 ## ✅ Proyecto finalizado
 
-**Tanque:** 5000 L
-**Estado:** 🟢 Finalizado
-**Fecha:** `DD/MM/AAAA`
+- **Tanque:** 5000 L
+- **Estado:** 🟢 Finalizado
+- **Fecha:** `DD/MM/AAAA`
 
 ---
 
@@ -256,4 +256,10 @@ DÍA 09 ── 💧 Carga
 ### 📝 Observaciones
 
 - `Trabajaron 2 personas, los materiales no estaban disponibles en Necochea se tuvieron que pedir y enviar un comisionista`
-- `El costo total dividido 5 da $326.000 por cada parte`
+- `Trabajo de presupuestos previos y honorarios profesionales no contemplado`
+- `Costo total dividido 5:` **$326.000**
+
+---
+- Maestro Mayor de Obras 
+- Dardo Camaño
+- dardocam@gmail.com
