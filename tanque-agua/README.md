@@ -7,7 +7,7 @@
 
 ## 📋 Sobre el proyecto
 
-Reparación y recuperación de un tanque de agua de hormigón con capacidad aproximada de **5000 litros**.
+Reparación y recuperación de tanque de agua de hormigón con capacidad aproximada de **5000 litros**.
 
 Este documento registra el proyecto **día por día**, utilizando fotografías, videos y una breve descripción de los trabajos realizados.
 
@@ -29,9 +29,13 @@ DÍA 06 ── 💧 Impermeabilización
    │
 DÍA 07 ── 🧼 Curado
    │
-DÍA 08 ── 🧼 Limpieza, Desinfección
+DÍA 08 ── 🧼 Curado
    │
-DÍA 09 ── 💧 Carga
+DÍA 09 ── 🧼 Curado
+   │
+DÍA 10 ── 🧼 Limpieza, Desinfección
+   │
+DÍA 11 ── 💧 Carga
    │
    │
    ▼
@@ -66,6 +70,8 @@ DÍA 09 ── 💧 Carga
 - [▶️ Ver video del deterioro inicial - 02](media/video-02.mp4)
 
 ---
+
+
 # 📅 DÍA 01
 
 **Fecha:** `07/09/2026`
@@ -73,7 +79,7 @@ DÍA 09 ── 💧 Carga
 ### 🔨 Trabajo realizado
 
 - `Se instaló llave de paso nueva para permitir vaciado.`
-- `Se procedió con el vaciado.`
+- `Se procedió con el vaciado y la inspección.`
 
 ### 📸 Fotos
 
@@ -85,16 +91,11 @@ DÍA 09 ── 💧 Carga
 
 ![Día 01 - Foto 4](media/dia-01/foto-04.jpeg)
 
-![Día 01 - Foto 5](media/dia-01/foto-05.jpeg)
-
-![Día 01 - Foto 6](media/dia-01/foto-06.jpeg)
-
-![Día 01 - Foto 7](media/dia-01/foto-07.jpeg)
 
 
 ### 📝 Observaciones
 
-`Se encontro el fondo del tanque con mucha suciedad y se observaron grietas en las paredes laterales interiores donde se encontraba la perdida.`
+`Se encontro el fondo del tanque con mucha suciedad y se observaron grietas en las paredes laterales interiores en el lugar de la perdida.`
 
 ---
 
@@ -104,7 +105,8 @@ DÍA 09 ── 💧 Carga
 
 ### 🔨 Trabajo realizado
 
-`Reparación e impermeabilización.`
+`Preparación - Limpieza.`
+
 
 ### 📸 Fotos
 
@@ -117,7 +119,7 @@ DÍA 09 ── 💧 Carga
 
 ### 📝 Observaciones
 
-`Comentarios, problemas encontrados, decisiones tomadas o cualquier información importante.`
+`...`
 
 ---
 
@@ -127,17 +129,22 @@ DÍA 09 ── 💧 Carga
 
 ### 🔨 Trabajo realizado
 
-`Describir brevemente qué se hizo durante el día.`
+`Reparación e impermeabilización.`
 
 ### 📸 Fotos
 
 ![Día 03 - Foto 1](media/dia-03/foto-01.jpeg)
 
+![Día 03 - Foto 2](media/dia-03/foto-02.jpeg)
+
+![Día 03 - Foto 3](media/dia-03/foto-03.jpeg)
+
+
 
 
 ### 📝 Observaciones
 
-`Comentarios, problemas encontrados, decisiones tomadas o cualquier información importante.`
+`...`
 
 ---
 
@@ -147,7 +154,7 @@ DÍA 09 ── 💧 Carga
 
 ### 🔨 Trabajo realizado
 
-`Describir brevemente qué se hizo durante el día.`
+`Impermeabilización`
 
 ### 📸 Fotos
 
@@ -157,7 +164,7 @@ DÍA 09 ── 💧 Carga
 
 ### 📝 Observaciones
 
-`Comentarios, problemas encontrados, decisiones tomadas o cualquier información importante.`
+`...`
 
 ---
 
@@ -167,18 +174,17 @@ DÍA 09 ── 💧 Carga
 
 ### 🔨 Trabajo realizado
 
-`Describir brevemente qué se hizo durante el día.`
+`Impermeabilización`
 
 ### 📸 Fotos
 
 ![Día 05 - Foto 1](media/dia-05/foto-01.jpeg)
-![Día 05 - Foto 2](media/dia-05/foto-02.jpeg)
 
 
 
 ### 📝 Observaciones
 
-`Comentarios, problemas encontrados, decisiones tomadas o cualquier información importante.`
+`...`
 
 ---
 
@@ -188,23 +194,17 @@ DÍA 09 ── 💧 Carga
 
 ### 🔨 Trabajo realizado
 
-`Describir brevemente qué se hizo durante el día.`
+`Impermeabilización`
 
 ### 📸 Fotos
 
 ![Día 06 - Foto 1](media/dia-06/foto-01.jpeg)
 ![Día 06 - Foto 2](media/dia-06/foto-02.jpeg)
-![Día 06 - Foto 3](media/dia-06/foto-03.jpeg)
 
-
-
-### 🎥 Video
-
-- [▶️ Ver video del dia 6 - 01](media/dia-06/video-01.mp4)
 
 ### 📝 Observaciones
 
-`Comentarios, problemas encontrados, decisiones tomadas o cualquier información importante.`
+`...`
 
 ---
 
@@ -216,10 +216,9 @@ DÍA 09 ── 💧 Carga
 
 `Curado.`
 
+### 📝 Observaciones
 
-# 🏁 FINAL DEL PROYECTO
-
-**Fecha de finalización:** `DD/MM/AAAA`
+`Se curo mojando diariamente durante 3 días.`
 
 ## Materiales
 ### 📸 Fotos
@@ -234,11 +233,24 @@ DÍA 09 ── 💧 Carga
 
 
 
+# 🏁 FINAL DEL PROYECTO
+
+![Final - Foto 1](media/final/foto-01.jpeg)
+
+![Final - Foto 2](media/final/foto-02.jpeg)
+
+![Final - Foto 3](media/final/foto-03.jpeg)
+
+
+### 🎥 Video
+
+- [▶️ Ver video del dia 6 - 01](media/final/video-01.mp4)
+
 ## ✅ Proyecto finalizado
 
 - **Tanque:** 5000 L
 - **Estado:** 🟢 Finalizado
-- **Fecha:** `DD/MM/AAAA`
+- **Fecha:** `17/09/2026`
 
 ---
 
@@ -255,11 +267,5 @@ DÍA 09 ── 💧 Carga
 
 ### 📝 Observaciones
 
-- `Trabajaron 2 personas, los materiales no estaban disponibles en Necochea se tuvieron que pedir y enviar un comisionista`
-- `Trabajo de presupuestos previos y honorarios profesionales no contemplado`
-- `Costo total dividido 5:` **$326.000**
+- `Trabajaron 2 personas, los materiales no estaban disponibles en Necochea se tuvieron que comprar en Mar del Plata y enviar un comisionista`
 
----
-- Maestro Mayor de Obras 
-- Dardo Camaño
-- dardocam@gmail.com
