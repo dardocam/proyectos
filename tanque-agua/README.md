@@ -244,7 +244,7 @@ DÍA 11 ── 💧 Carga
 
 ### 🎥 Video
 
-- [▶️ Ver video del dia 6 - 01](media/final/video-01.mp4)
+- [▶️ Ver video del final](media/final/video-01.mp4)
 
 ## ✅ Proyecto finalizado
 
