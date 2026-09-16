@@ -1,5 +1,3 @@
-Si se trata de un **tanque de agua de hormigón armado**, intentaría utilizar materiales compatibles entre sí y, si es posible, del mismo fabricante para evitar problemas de adherencia o incompatibilidades.
-
 ## Materiales para la limpieza
 
 ### Herramientas
